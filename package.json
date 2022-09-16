@@ -1,0 +1,19 @@
+{
+  "name": "advancedts",
+  "version": "1.0.0",
+  "description": "Advanced knowledge for TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Alayon",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^4.1.1"
+  }
+}
